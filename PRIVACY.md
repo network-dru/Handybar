@@ -23,7 +23,7 @@ This page explains what Handybar looks at on your PC to do its job, what it keep
 
 ## What Handybar saves, and where
 
-Everything is in one folder on your PC: `%LocalAppData%\Handybar`.
+Everything is in one folder on your PC, which Windows keeps in Handybar's own private app storage when you install it from the Microsoft Store (under `%LocalAppData%\Packages\`). To Handybar it's `%LocalAppData%\Handybar`.
 
 - `settings.json`: your Handybar settings
 - `clipboard.json`: clipboard items you've pinned
@@ -31,7 +31,7 @@ Everything is in one folder on your PC: `%LocalAppData%\Handybar`.
 - `emoji-recent.json`: emoji you used recently
 - `crash.log`: details of any crash, to help fix it (only written if Handybar crashes, and never sent anywhere)
 
-You can delete any of these at any time, or the whole folder to start fresh. Uninstalling Handybar and deleting this folder removes everything it kept.
+You can delete any of these at any time to start fresh. Uninstalling Handybar removes them all: Windows deletes the app's private storage along with the app.
 
 ## Children
 
