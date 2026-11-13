@@ -23,7 +23,7 @@ This page explains what Handybar looks at on your PC to do its job, what it keep
 
 ## What Handybar saves, and where
 
-Everything is in one folder on your PC: `%LocalAppData%\Workbench` (named after Handybar's working title).
+Everything is in one folder on your PC: `%LocalAppData%\Handybar`.
 
 - `settings.json`: your Handybar settings
 - `clipboard.json`: clipboard items you've pinned
