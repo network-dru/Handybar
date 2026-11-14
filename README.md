@@ -9,7 +9,7 @@ A quick-access toolkit for Windows: a small pill at the edge of your screen that
 - **Now playing**: see and control what's playing
 - **Shelf**: park files and drag them out later
 - **Privacy lights**: see when an app is using your camera or microphone
-- **Quick toggles**: mute your microphone or sound, switch light and dark mode
+- **Quick toggles**: mute your microphone or sound, or keep your PC awake
 
 Everything runs on your PC. Handybar doesn't collect or send any data, and never connects to the internet.
 
