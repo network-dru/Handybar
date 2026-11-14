@@ -1,6 +1,6 @@
 # Handybar privacy policy
 
-_Last updated: 13 November 2026_
+_Last updated: 14 November 2026_
 
 Handybar is a quick-access toolkit for Windows. It runs entirely on your PC. **It doesn't collect, send or share any of your data, and it never connects to the internet.** There's no account, no analytics, no advertising and no tracking.
 
@@ -32,6 +32,10 @@ Everything is in one folder on your PC, which Windows keeps in Handybar's own pr
 - `crash.log`: details of any crash, to help fix it (only written if Handybar crashes, and never sent anywhere)
 
 You can delete any of these at any time to start fresh. Uninstalling Handybar removes them all: Windows deletes the app's private storage along with the app.
+
+## Links to other websites
+
+Handybar's About page has a few links that open in your web browser: this policy, the third-party notices and the feedback page on GitHub, and an optional "Support Handybar" link to Buy Me a Coffee for tips. Handybar itself sends nothing to these sites; what happens on them is covered by their own privacy policies (GitHub's and Buy Me a Coffee's).
 
 ## Children
 
