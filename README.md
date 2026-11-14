@@ -17,4 +17,4 @@ Everything runs on your PC. Handybar doesn't collect or send any data, and never
 
 - [Privacy policy](PRIVACY.md)
 - [Third-party notices](THIRD-PARTY-NOTICES.md)
-- [Send feedback or report a problem](https://github.com/alexandruvalentin/Handybar/issues)
+- [Send feedback or report a problem](https://github.com/network-dru/Handybar/issues)

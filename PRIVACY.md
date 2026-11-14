@@ -43,4 +43,4 @@ If Handybar ever starts handling data differently, this page will be updated fir
 
 ## Contact
 
-Questions about privacy in Handybar: open an issue at <https://github.com/alexandruvalentin/Handybar/issues>.
+Questions about privacy in Handybar: open an issue at <https://github.com/network-dru/Handybar/issues>.
